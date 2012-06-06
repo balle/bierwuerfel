@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="bin/Bierwuerfel.jar"/>
+	<classpathentry kind="lib" path="tmplib/floggy-persistence-framework.jar"/>
+	<classpathentry kind="lib" path="/home/basti/j2me/cldcapi11.jar"/>
+	<classpathentry kind="lib" path="/home/basti/j2me/j2me-ws.jar"/>
+	<classpathentry kind="lib" path="/home/basti/j2me/midpapi20.jar"/>
+	<classpathentry kind="lib" path="/opt/junit/junit-4.4.jar"/>
+	<classpathentry kind="lib" path="/opt/J2ME-Polish/lib/enough-j2mepolish-client.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="tmpclasses"/>
+</classpath>

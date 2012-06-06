@@ -1,0 +1,4 @@
+-libraryjars /opt/WTK/lib/j2me-xmlrpc.jar:/opt/WTK/lib/mmapi.jar:/opt/WTK/lib/midpapi20.jar:/opt/WTK/lib/wma11.jar:/opt/WTK/lib/cldcapi11.jar
+-injars /opt/WTK/apps/Bierwuerfel/bin/Bierwuerfel.jar
+-outjar /tmp/Bierwuerfel.jar
+-keep public class * extends javax.microedition.midlet.MIDlet 

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kneipe>
+	<name>Freiburger Bierhaus</name>
+	<longitude>0.00</longitude>
+	<latitude>0.00</latitude>
+	<adresse>teststr 23</adresse>
+	<telefon>1234 567890</telefon>
+	<oeffnungszeiten>17-02 uhr</oeffnungszeiten>
+</kneipe>

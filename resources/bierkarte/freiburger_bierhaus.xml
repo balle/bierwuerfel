@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<bierkarte>
+	<bier>
+		<number>1</number>
+		<name>Testbier</name>
+		<price>2.50</price>
+		<alc>5</alc>
+	</bier>
+	<bier>
+		<number>2</number>
+		<name>Testbier 2</name>
+		<price>2.20</price>
+		<alc>4.7</alc>
+	</bier>
+</bierkarte>
