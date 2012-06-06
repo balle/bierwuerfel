@@ -1,1 +1,3 @@
-Just a simple J2ME app to dice you a beer (or a meal) if you have more than a few choices ;)
+Just a simple J2ME app to dice you a beer (or a meal) if you have more than a few choices.
+It can remember the beer you drank if you cannot remember it any longer and it saves the beer you dont like.
+Formally invented and used to dice a beer in the "Freiburger Bierhaus".
